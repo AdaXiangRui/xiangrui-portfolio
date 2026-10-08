@@ -81,7 +81,7 @@ export default function Perfects() {
   const activeTier = tierData[tier]
 
   return <Localize><main className="perfects-page" lang="zh-CN">
-    <header className="pf-nav"><Link href="/">周详睿</Link><nav><a href="#pf-outline">项目目录</a><Link href="/#work">所有作品 ↗</Link></nav></header>
+    <header className="pf-nav"><Link href="/">Xiangrui Zhou</Link><nav><Link href="/#work">Work</Link><Link href="/about">About</Link><Link href="/#contact">Contact</Link></nav></header>
 
     <section className="pf-hero">
       <motion.div initial={{ opacity: 0, y: reduced ? 0 : 25 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .6 }}>

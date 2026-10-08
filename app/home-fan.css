@@ -23,3 +23,9 @@ html[lang=zh-CN] .fan-slot:nth-child(1) .fan-design-type:after,html[lang=zh-CN] 
 html[lang=zh-CN] .fan-slot:nth-child(3) .fan-design-type:after,html[lang=zh-CN] .fan-slot:nth-child(4) .fan-design-type:after{content:'系统设计'}
 html[lang=zh-CN] .fan-slot:nth-child(5) .fan-design-type:after{content:'交互设计'}
 html[lang=zh-CN] .fan-slot:nth-child(6) .fan-design-type:after{content:'产品设计'}
+
+/* Contact methods */
+.home-contact-links{display:flex;flex-wrap:wrap;align-items:flex-end;gap:14px 34px}
+.home-contact-links>a{display:inline-block;font-size:clamp(15px,1.45vw,22px);border-bottom:1px solid #ffffff30;padding-bottom:12px;transition:border-color .2s,color .2s}
+.home-contact-links>a:hover{color:#b8c9e9;border-color:#b8c9e9}
+@media(max-width:800px){.home-contact-links{align-items:flex-start;flex-direction:column;gap:16px}.home-contact-links>a{font-size:16px}}
