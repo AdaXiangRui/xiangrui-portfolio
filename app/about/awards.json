@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2025-04-15",
+    "prize": [
+      "Outstanding Student",
+      "校级优秀学生"
+    ],
+    "title": [
+      "ShanghaiTech University",
+      "上海科技大学"
+    ],
+    "scope": [
+      "University",
+      "校级"
+    ],
+    "note": [
+      "Recognized as an Outstanding Student for the 2024–25 academic year at ShanghaiTech University.",
+      "获评上海科技大学 2024—2025 学年校级优秀学生。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2024",
+    "prize": [
+      "Second-class Scholarship · approx. RMB 40,000",
+      "二等奖学金 · 约 4 万元"
+    ],
+    "title": [
+      "3+1 International Exchange Programme",
+      "3+1 国际交流项目奖学金"
+    ],
+    "scope": [
+      "University",
+      "校级"
+    ],
+    "note": [
+      "Awarded a second-class scholarship of approximately RMB 40,000 to support an overseas exchange programme.",
+      "获 3+1 国际交流项目二等奖学金，资助金额约 4 万元，用于海外交换学习。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2024-12-30",
+    "prize": [
+      "Dean’s List",
+      "院长嘉许名单"
+    ],
+    "title": [
+      "Drexel University",
+      "德雷塞尔大学"
+    ],
+    "scope": [
+      "University",
+      "校级"
+    ],
+    "note": [
+      "Named to the Dean’s List during the visiting exchange at Drexel University’s College of Design, ranking in the top 5%.",
+      "在德雷塞尔大学设计学院访问交换期间入选 Dean’s List，成绩位列学院前 5%。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2024-11-22",
+    "prize": [
+      "Excellence Award",
+      "优秀奖"
+    ],
+    "title": [
+      "11th China Higher Education Design Competition · QUIPU",
+      "第十一届中国高等院校设计作品大赛 · QUIPU"
+    ],
+    "scope": [
+      "National competition",
+      "全国性赛事"
+    ],
+    "note": [
+      "QUIPU combines traditional knot-making with AI. Participants tie knots to express emotion; AI translates each knot into projected text and offers a guiding response. The installation explores how tactile action can carry personal information across expression, interaction and symbolism.",
+      "QUIPU 是一件结合传统绳结技艺与 AI 的交互装置。参与者以打结表达情绪，AI 将绳结转化为投影文字并给出引导性回应。作品以可触摸的行动串联信息、交互与象征：绳结既是身体动作，也是情绪符号；AI 与投影则让这一表达被感知、被回应。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2024-11-13",
+    "prize": [
+      "First Prize · Mascot Category",
+      "吉祥物赛道一等奖"
+    ],
+    "title": [
+      "Shanghai University Laboratory Safety Creative Design Competition · Yanyan",
+      "上海市高校实验室安全主题文创设计大赛 · 验验"
+    ],
+    "scope": [
+      "Municipal · Shanghai",
+      "市级 · 上海"
+    ],
+    "note": [
+      "Yanyan is an intelligent robot mascot designed as a laboratory safety assistant, supporting researchers through safety training and timely reminders.",
+      "“验验”以智能机器人为形象，作为实验室安全助手，为研究人员提供安全培训与场景化提示。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2024-08-23",
+    "prize": [
+      "National Third Prize",
+      "国家级三等奖"
+    ],
+    "title": [
+      "Milan Design Week · China University Design Exhibition · Ariel",
+      "米兰设计周—中国高校设计学科优秀作品展 · Ariel"
+    ],
+    "scope": [
+      "National",
+      "全国级"
+    ],
+    "note": [
+      "Ariel is a service system that turns ocean plastic into eco-fashion products. It invites fishers and beach visitors to join cleanup activities, then transforms recovered material into products for rental or purchase—connecting environmental reconciliation, local industry and responsible tourism.",
+      "Ariel 构建“海洋塑料垃圾—环保时尚产品”的服务系统：鼓励渔民与海滩游客参与清理，将回收材料转化为可租赁或购买的可持续产品，形成环境修复、本地产业与负责任旅游之间的闭环。"
+    ],
+    "href": "/projects/ariel"
+  },
+  {
+    "date": "2024-08-16",
+    "prize": [
+      "Silver Award",
+      "银奖"
+    ],
+    "title": [
+      "MUSE Design Awards · AURA",
+      "MUSE Design Awards · AURA"
+    ],
+    "scope": [
+      "International",
+      "国际"
+    ],
+    "note": [
+      "AURA explores driver fatigue in autonomous-driving scenarios. It combines driving-state data with physiological and behavioural signals, then uses personalised music and responsive feedback to help drivers maintain attention.",
+      "AURA 面向自动驾驶场景中的驾驶疲劳体验，结合驾驶状态与生理、行为信号识别疲劳程度，并设计动态音乐干预机制，以个性化音乐与交互反馈帮助驾驶者维持注意力。"
+    ],
+    "href": "/projects/aura"
+  },
+  {
+    "date": "2023-11-19",
+    "prize": [
+      "Most Popular Award",
+      "最佳人气奖"
+    ],
+    "title": [
+      "NYU Shanghai · Digital Innovation Challenge",
+      "上海纽约大学 Digital Innovation Challenge"
+    ],
+    "scope": [
+      "University-hosted competition",
+      "高校主办赛事"
+    ],
+    "note": [
+      "A voice-first autonomous AI 3D-modelling agent for everyday creation—from shaping game characters to arranging furniture virtually. The concept was recognised for extending 3D modelling beyond specialist tools, while acknowledging that large-scale technical adaptation remains in development.",
+      "项目提出以语音为主导的自主 AI 3D 建模智能体，可用于游戏角色塑造、家具虚拟摆放等日常场景。尽管大规模适配仍在研发中，这一让建模走出专业工具、进入生活的创意获得了最佳人气奖。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2023",
+    "prize": [
+      "Outstanding Individual",
+      "优秀个人"
+    ],
+    "title": [
+      "Undergraduate Industry Practice",
+      "本科生产业实践"
+    ],
+    "scope": [
+      "University",
+      "校级"
+    ],
+    "note": [
+      "Recognised for field research on AI in healthcare, including interviews, case synthesis and written analysis of industry applications and trends.",
+      "因智能医疗产业实践获评优秀个人，工作包括企业走访、访谈整理、案例研究及行业趋势分析。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2022-09-09",
+    "prize": [
+      "Sole First Prize · RMB 18,888",
+      "唯一一等奖 · 奖金 18,888 元"
+    ],
+    "title": [
+      "Silkroad Visual · First AI Design Innovation Competition · Emotion of the City",
+      "丝路视觉首届 AI 设计创意大赛 · Emotion of the City"
+    ],
+    "scope": [
+      "Company-wide",
+      "企业级"
+    ],
+    "note": [
+      "Emotion of the City explores future robots in everyday urban life. AI-generated cities, robots and daily scenes are used to imagine behaviours and relationships among people, machines and the city, forming a speculative experience of human–machine coexistence.",
+      "Emotion of the City 围绕“未来机器人 × 城市生活”展开体验设计，以 AI 生成技术构建城市、机器人与日常场景，从人与机器、机器与城市的关系出发，探索未来城市中的人机共生体验。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2022-07-11",
+    "prize": [
+      "Second Prize",
+      "二等奖"
+    ],
+    "title": [
+      "8th Huichuang Youth · Internet+ Cultural Creativity",
+      "第八届“汇创青春” · 互联网+文化创意类"
+    ],
+    "scope": [
+      "Municipal · Shanghai",
+      "市级 · 上海"
+    ],
+    "note": [
+      "Second Prize in the Internet+ Cultural Creativity category of the eighth Huichuang Youth competition.",
+      "获第八届“汇创青春”上海大学生文化创意作品展示活动互联网+文化创意类二等奖。"
+    ],
+    "href": ""
+  },
+  {
+    "date": "2022",
+    "prize": [
+      "Second Prize · Outstanding Team",
+      "优秀团队二等奖"
+    ],
+    "title": [
+      "Undergraduate Social Practice",
+      "本科生社会实践"
+    ],
+    "scope": [
+      "University",
+      "校级"
+    ],
+    "note": [
+      "Team recognition for field research evaluating thirty years of reforestation in Yan’an and communicating its ecological, economic and social outcomes.",
+      "延安市退耕还林三十年绩效评价项目获本科生社会实践优秀团队二等奖，研究并传播其生态、经济与社会成效。"
+    ],
+    "href": ""
+  }
+]

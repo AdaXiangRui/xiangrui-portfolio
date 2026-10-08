@@ -1,0 +1,388 @@
+{
+  "work": [
+    {
+      "date": "2026.07 — 2026.09",
+      "name": [
+        "Huawei · Intelligent Automotive Solution BU",
+        "Huawei · 华为智能汽车解决方案 BU"
+      ],
+      "role": [
+        "Interaction Design Intern",
+        "交互设计实习生"
+      ],
+      "body": [
+        [
+          "Designed experiences for intelligent cockpit HMI, desktop cards and assistants. Defined 12 atomic and 11 composite component groups, including properties, usage rules and design-to-code mapping.",
+          "Explored AI-assisted delivery workflows, competitive products and interaction patterns for cockpit cards, assistants and connected ordering."
+        ],
+        [
+          "参与智能座舱 HMI、智能桌面及助手体验设计。梳理 12 组原子组件与 11 组复合组件，定义属性、使用规则及设计到代码的映射；探索 AI 辅助设计工作流。",
+          "参与智能桌面卡片、助手及联动点餐等场景的竞品分析、流程梳理与界面设计。"
+        ]
+      ],
+      "mark": "HW"
+    },
+    {
+      "date": "2026.01 — 2026.05",
+      "name": [
+        "Elihome · Milan",
+        "Elihome · Milan"
+      ],
+      "role": [
+        "System Design Intern",
+        "系统设计实习生"
+      ],
+      "body": [
+        [
+          "Designed EliLab, an internal research library spanning 3 departments and 11 research areas. Structured information architecture, classification and retrieval around 4 research workflows.",
+          "Developed the interface and design guidelines to support a consistent internal research experience."
+        ],
+        [
+          "设计 EliLab 内部研究资料库，覆盖 3 个部门、11 个研究领域。围绕 4 类研究工作流建立信息架构、分类检索体验与界面规范。",
+          "进一步完成界面设计与使用规范，支持内部研究资料的持续积累与调用。"
+        ]
+      ],
+      "mark": "EL"
+    },
+    {
+      "date": "2025.01 — 2025.09",
+      "name": [
+        "Perfects AI",
+        "Perfects AI"
+      ],
+      "role": [
+        "UI / UX Design Intern",
+        "UI / UX 设计实习生"
+      ],
+      "body": [
+        [
+          "Contributed to a B2B and B2C AI agent platform from the ground up: agent creation, knowledge integration, multi-model access and permissions.",
+          "Separately led 4 designers on an overseas-study assistance product, including AI résumé improvement and 4 other modules. Kept product architecture, interface design and delivery connected."
+        ],
+        [
+          "参与面向 ToB 与 ToC 的 AI 智能体平台从 0 到 1 设计，涵盖智能体创建、知识库接入、多模型调用与权限体系。另负责留学辅助产品的 AI 简历优化等 5 个模块，带领 4 位设计师推进设计交付。",
+          "将产品架构、界面设计与交付衔接；智能体平台与留学辅助产品分别呈现。"
+        ]
+      ],
+      "mark": "PA"
+    },
+    {
+      "date": "2024.05 — 2024.09",
+      "name": [
+        "Burson · WPP",
+        "Burson · WPP"
+      ],
+      "role": [
+        "Design Assistant",
+        "设计助理"
+      ],
+      "body": [
+        [
+          "Created media roadbooks, covers and event visuals for Ford, including reusable layout templates across four roadbook editions.",
+          "Supported visual strategy proposals for CATL, Genesis and Mercedes-Benz, translating brand narratives into presentation systems."
+        ],
+        [
+          "参与福特纵横野系列媒体路书、活动海报及品牌提案。建立可复用版式模板，并支持宁德时代、捷尼赛思及梅赛德斯-奔驰相关视觉方案。",
+          "围绕品牌叙事整理视觉提案与演示材料，支持跨团队协作。"
+        ]
+      ],
+      "mark": "BW"
+    },
+    {
+      "date": "2023.06 — 2023.09",
+      "name": [
+        "Silkroad Visual",
+        "丝路视觉科技"
+      ],
+      "role": [
+        "UX / Interaction Design",
+        "用户体验 / 交互设计"
+      ],
+      "body": [
+        [
+          "Worked on digital exhibitions, VR and interactive urban-planning experiences, including projects in Wuxi, Yiwu, Suzhou and Rui’an.",
+          "Collaborated with engineers on an AI design innovation concept."
+        ],
+        [
+          "参与数字展厅、VR 与城市规划互动项目，联合工程师推进 AI 设计创新方案。",
+          "项目涉及无锡、义乌、苏州与瑞安的数字空间和互动体验。"
+        ]
+      ],
+      "mark": "SV"
+    }
+  ],
+  "education": [
+    {
+      "date": "2025 — 2027",
+      "name": "Politecnico di Milano",
+      "degree": [
+        "MSc · Product Service System Design (expected 2027)",
+        "产品服务系统设计 · 硕士"
+      ],
+      "note": [
+        "GPA 28/30 · Milan, Italy",
+        "GPA 28/30 · Milan, Italy"
+      ],
+      "mark": "PM",
+      "level": [
+        "Master’s degree",
+        "硕士研究生"
+      ],
+      "location": [
+        "Milan, Italy",
+        "意大利 · 米兰"
+      ],
+      "dates": [
+        "2025.09 — 2027.07 · Expected",
+        "2025.09 — 2027.07 · 预计毕业"
+      ],
+      "metrics": [
+        {
+          "label": [
+            "GPA",
+            "平均成绩"
+          ],
+          "value": "28 / 30"
+        }
+      ],
+      "detail": [
+        "Product Service System Design",
+        "产品服务系统设计"
+      ],
+      "honor": [
+        "Currently pursuing a master’s degree",
+        "硕士在读"
+      ]
+    },
+    {
+      "date": "2021 — 2025",
+      "name": "ShanghaiTech University",
+      "degree": [
+        "BEng · Intelligent Design",
+        "智能设计 · 工学学士"
+      ],
+      "note": [
+        "GPA 3.75/4.0 · Major GPA 3.95/4.0",
+        "GPA 3.75/4.0 · 专业 GPA 3.95/4.0"
+      ],
+      "mark": "ST",
+      "level": [
+        "Bachelor’s degree",
+        "本科"
+      ],
+      "location": [
+        "Shanghai, China",
+        "中国 · 上海"
+      ],
+      "dates": [
+        "2021.09 — 2025.07",
+        "2021.09 — 2025.07"
+      ],
+      "metrics": [
+        {
+          "label": [
+            "Overall GPA",
+            "综合成绩"
+          ],
+          "value": "3.75 / 4.0"
+        },
+        {
+          "label": [
+            "Major GPA",
+            "专业成绩"
+          ],
+          "value": "3.95 / 4.0"
+        }
+      ],
+      "detail": [
+        "BEng · Intelligent Design / Industrial Design",
+        "工学学士 · 工业设计 / 智能设计"
+      ],
+      "honor": [
+        "University top 8% · Outstanding Student & Scholarship",
+        "全校前 8% · 校级优秀学生及奖学金"
+      ]
+    },
+    {
+      "date": "2024.09 — 2024.12",
+      "name": "Drexel University",
+      "degree": [
+        "Visiting Exchange · Design",
+        "设计国际访问交换项目"
+      ],
+      "note": [
+        "GPA 3.91/4.0 · Dean’s List",
+        "GPA 3.91/4.0 · Dean’s List"
+      ],
+      "mark": "DU",
+      "level": [
+        "International exchange",
+        "国际交换"
+      ],
+      "location": [
+        "Philadelphia, USA",
+        "美国 · 费城"
+      ],
+      "dates": [
+        "2024.09 — 2024.12",
+        "2024.09 — 2024.12"
+      ],
+      "metrics": [
+        {
+          "label": [
+            "GPA",
+            "平均成绩"
+          ],
+          "value": "3.91 / 4.0"
+        }
+      ],
+      "detail": [
+        "Visiting exchange programme in design",
+        "特色设计国际访问交换项目"
+      ],
+      "honor": [
+        "Dean’s List · College of Design, top 5%",
+        "Dean’s List · 设计学院前 5%"
+      ]
+    }
+  ],
+  "awards": [
+    [
+      "2025-04-15",
+      "University Outstanding Student & Scholarship",
+      "校级优秀学生 & 奖学金"
+    ],
+    [
+      "2024-12-30",
+      "Dean’s List · Drexel University",
+      "Dean’s List（Drexel University）"
+    ],
+    [
+      "2024-11-22",
+      "Excellence Award · 11th China Higher Education Design Competition",
+      "第十一届中国高等院校设计作品大赛优秀奖"
+    ],
+    [
+      "2024-11-13",
+      "First Prize · Shanghai University Laboratory Safety Creative Design Competition",
+      "上海市高校实验室安全主题文创设计大赛一等奖"
+    ],
+    [
+      "2024-08-23",
+      "Third Prize · Milan Design Week — China University Design Exhibition",
+      "米兰设计周—中国高校设计学科优秀作品展三等奖"
+    ],
+    [
+      "2024-08-16",
+      "Silver · MUSE Design Awards",
+      "MUSE Design Awards 银奖"
+    ],
+    [
+      "2023-11-19",
+      "Most Popular Award · NYU Shanghai Digital Innovation Challenge",
+      "上海纽约大学 Digital Innovation Challenge 最佳人气奖"
+    ],
+    [
+      "2022-09-09",
+      "First Prize · Silkroad Visual AI Design Innovation Competition",
+      "丝路视觉首届 AI 设计创意大赛一等奖"
+    ],
+    [
+      "2022-07-11",
+      "Second Prize · 8th Huichuang Youth, Internet+ Cultural Creativity",
+      "第八届“汇创青春”上海大学生文化创意作品互联网+文化创意类二等奖"
+    ],
+    [
+      "2023",
+      "Outstanding Individual · Undergraduate Industry Practice",
+      "本科生产业实践优秀个人"
+    ],
+    [
+      "2022",
+      "Second Prize, Outstanding Team · Undergraduate Social Practice",
+      "本科生社会实践优秀团队二等奖"
+    ]
+  ],
+  "research": [
+    {
+      "date": "2024.07",
+      "title": [
+        "Ecological Design Research",
+        "生态设计研究"
+      ],
+      "role": [
+        "Publication · ZHUANGSHI, Issue 7, pp. 42–47",
+        "论文 ·《装饰》2024 年第 7 期，42–47 页"
+      ],
+      "body": [
+        "Co-authored “An Ecological Design Approach in the Context of Posthumanism and Situationism”, exploring ecological design through posthumanist and situationist perspectives.",
+        "参与后人类主义与情境主义相关生态设计研究，论文《基于构建后人类主义情境的生态设计研究》发表于《装饰》。"
+      ],
+      "href": "https://www.hy-lab.design/_files/ugd/cb3b69_8335ba77f51b4825847588f0421f639d.pdf"
+    },
+    {
+      "date": "2024",
+      "title": [
+        "Research Assistant · Experience & Emotion Design Lab",
+        "体验与情感设计实验室研究助理"
+      ],
+      "role": [
+        "Research assistant / Team lead",
+        "研究助理 / 团队负责人"
+      ],
+      "body": [
+        "Explored driving fatigue and music-based interventions through AURA. The project received a Silver award at the 2024 MUSE Design Awards.",
+        "参与 AURA 驾驶疲劳与音乐干预体验研究，项目获 2024 MUSE Design Awards 银奖。"
+      ],
+      "image": "/Aura.png",
+      "href": "/projects/aura"
+    },
+    {
+      "date": "2023.09 — 2024.02",
+      "title": [
+        "Ariel · Circular Service Design",
+        "Ariel · 循环服务设计"
+      ],
+      "role": [
+        "Project lead · LEGO-supported course at ShanghaiTech",
+        "项目组长 · LEGO 支持的上海科技大学服务设计课程"
+      ],
+      "body": [
+        "Designed a service connecting ocean-plastic recovery with sustainable products for rental or purchase. Encouraged fishers and beach visitors to participate in cleanup, supporting local production and responsible tourism. Awarded a national Third Prize in the 2024 Milan Design Week China University Design Exhibition.",
+        "将海洋塑料转化为可租赁或购买的可持续产品，鼓励渔民与游客参与清理，支持本地产业与负责任的旅游。获 2024 年米兰设计周—中国高校设计学科师生优秀作品展全国三等奖。"
+      ],
+      "image": "/Ariel.png",
+      "href": "/projects/ariel"
+    },
+    {
+      "date": "2023.06 — 2023.11",
+      "title": [
+        "AI in Healthcare · Industry Field Research",
+        "智能医疗时代 · AI 产业实践"
+      ],
+      "role": [
+        "Writing team lead",
+        "写作组组长"
+      ],
+      "body": [
+        "Conducted field research at United Imaging Healthcare and 宝藤生物 (Baoteng Biotechnology). Synthesized interviews and case studies on AI applications, business models and industry trends, and developed recommendations around industry-chain strengths and cloud services. Recognized as an Outstanding Individual in undergraduate industry practice.",
+        "实地走访联影医疗与宝藤生物，整理案例与访谈材料，分析 AI 医疗应用、商业模式与行业趋势，探讨产业链优势及云服务的市场机会。获本科生产业实践优秀个人。"
+      ]
+    },
+    {
+      "date": "2022.06 — 2022.11",
+      "title": [
+        "Thirty Years of Reforestation · Yan’an",
+        "延安市退耕还林三十年的绩效评价"
+      ],
+      "role": [
+        "Communications team lead",
+        "新闻组组长"
+      ],
+      "body": [
+        "Coordinated with the local forestry bureau and arranged field interviews. Wrote and published project reports on the ecological, economic and social effects of reforestation. The team received a Second Prize for undergraduate social practice.",
+        "对接当地林业局，协调访问与实地访谈；撰写发布通讯稿，传播退耕还林政策对生态、经济与民生影响的研究成果。获本科生社会实践优秀团队二等奖。"
+      ]
+    }
+  ]
+}

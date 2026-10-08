@@ -1,0 +1,27 @@
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+next.user-config.*
+
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+.vercel
+
+# Local source material and generated caches
+.pnpm-store/
+tsconfig.tsbuildinfo
+素材/
+
+# Unused heavyweight source exports kept locally
+public/ariel/Ariel2.mp4
+public/argentu/business-journey.pdf
+public/argentu/resident-journey.pdf
