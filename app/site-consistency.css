@@ -41,6 +41,8 @@ html[lang=zh-CN] main [data-zh-title-break]{display:block}
  .perfects-page .pf-hero h2,.perfects-page .pf-statement h2,.perfects-page .pf-heading>h2,.perfects-page .pf-big-question>h3
 ){font-size:clamp(38px,10vw,58px)!important;line-height:1.16!important}}
 
+@media(max-width:750px){html[lang=zh-CN] main.perfects-page.perfects-page .pf-hero h2{word-break:normal!important;overflow-wrap:anywhere!important}}
+
 @media(min-width:801px){
  html[lang=zh-CN] .argentu-page .ag-process-intro{grid-template-columns:1fr!important;row-gap:20px}
  html[lang=zh-CN] .aura-scroll-snap .aura-context-head{grid-template-columns:minmax(470px,.9fr) minmax(0,1.1fr)}
