@@ -48,7 +48,8 @@ function translateTree(node:ReactNode,zh:boolean):ReactNode{
   const children=translateTree(element.props.children as ReactNode,zh)
   const isHeading=element.type==='h1'||element.type==='h2'||element.type==='h3'
   const headingText=isHeading?textContent(children):''
-  props.children=isHeading&&hasChinese(headingText)?formatChineseHeading(children,headingText.includes('，')):children
+  const allowTitleBreak=element.props['data-no-title-break']!==true
+  props.children=isHeading&&hasChinese(headingText)?formatChineseHeading(children,allowTitleBreak&&headingText.includes('，')):children
  }
  return cloneElement(element,props)
 }
