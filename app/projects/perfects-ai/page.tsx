@@ -4,6 +4,7 @@
 import {Localize} from "@/components/site-language"
 import { ChapterRail } from "@/components/chapter-rail"
 import Link from "next/link"
+import Image from "next/image"
 import { motion, useReducedMotion } from "framer-motion"
 import { BookOpen, Brain, Sparkles, ShieldCheck, SlidersHorizontal, HeartHandshake, UsersRound, RotateCcw, RefreshCw } from "lucide-react"
 import { useState } from "react"
@@ -245,8 +246,8 @@ export default function Perfects() {
         <figure className="pf-feature-figure pf-feature-figure-chat"><img loading="lazy" decoding="async" src="/perfects/agent-chat-desktop.png" alt="桌面端智能体对话界面" /><figcaption><span>DESKTOP / CONVERSATION</span><strong>在桌面端延续知识库上下文与任务对话。</strong></figcaption></figure>
       </div>
       <div className="pf-mobile-gallery" aria-label="微信小程序主要界面">
-          <figure><img loading="lazy" decoding="async" src="/perfects/mobile-market.png" alt="小程序智能体广场界面" /><figcaption><span>01 / DISCOVER</span><strong>智能体广场</strong></figcaption></figure>
-          <figure><img loading="lazy" decoding="async" src="/perfects/mobile-agent.png" alt="小程序智能体详情界面" /><figcaption><span>02 / UNDERSTAND</span><strong>智能体详情</strong></figcaption></figure>
+          <figure><Image src="/perfects/mobile-market.png" alt="小程序智能体广场界面" width={750} height={1624} sizes="(max-width: 700px) 42vw, 220px" /><figcaption><span>01 / DISCOVER</span><strong>智能体广场</strong></figcaption></figure>
+          <figure><Image src="/perfects/mobile-agent.png" alt="小程序智能体详情界面" width={750} height={1624} sizes="(max-width: 700px) 42vw, 220px" /><figcaption><span>02 / UNDERSTAND</span><strong>智能体详情</strong></figcaption></figure>
           <figure><img loading="lazy" decoding="async" src="/perfects/mobile-agent-chat.png" alt="小程序智能体对话展开界面" /><figcaption><span>03 / USE</span><strong>对话与使用</strong></figcaption></figure>
       </div>
     </section>

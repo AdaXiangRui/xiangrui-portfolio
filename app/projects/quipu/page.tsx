@@ -28,7 +28,7 @@ export default function QuipuProjectPage() {
 
       <section className="quipu-hero">
         <video className="quipu-hero-video" autoPlay muted loop playsInline preload="metadata" poster="/project-thumbs/quipu.jpg">
-          <source src="/quipu/quipu.mp4" type="video/mp4" />
+          <source src="/optimized/quipu-hero-1080.m4v" type="video/mp4" />
         </video>
         <div className="quipu-hero-shade" />
         <div className="quipu-hero-copy">

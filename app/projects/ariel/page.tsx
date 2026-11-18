@@ -1584,7 +1584,7 @@ export default function ArielProjectPage() {
               onMouseEnter={e => { (e.currentTarget as HTMLElement).style.transform = 'rotate(-3deg) scale(1.05) translateY(-8px)'; (e.currentTarget as HTMLElement).style.zIndex = '99'; (e.currentTarget as HTMLElement).style.boxShadow = '0 20px 48px rgba(0,0,0,0.18)'; const lbl = e.currentTarget.querySelector('.photo-label') as HTMLElement; if(lbl) lbl.style.opacity = '1' }}
               onMouseLeave={e => { (e.currentTarget as HTMLElement).style.transform = 'rotate(-4deg)'; (e.currentTarget as HTMLElement).style.zIndex = '2'; (e.currentTarget as HTMLElement).style.boxShadow = '0 4px 20px rgba(0,0,0,0.12)'; const lbl = e.currentTarget.querySelector('.photo-label') as HTMLElement; if(lbl) lbl.style.opacity = '0' }}>
               <div style={{ position: 'relative' }}>
-                <img loading="lazy" decoding="async" src="/ariel/beach.png" alt="Yusha Bay Park" style={{ width: '100%', height: '155px', objectFit: 'cover', display: 'block' }} />
+                <Image src="/ariel/beach.png" alt="Yusha Bay Park" width={2651} height={1640} sizes="230px" style={{ width: '100%', height: '155px', objectFit: 'cover', display: 'block' }} />
                 <div className="photo-label" style={{ position: 'absolute', top: '8px', left: '8px', background: '#DFA6AA', color: 'white', fontSize: '10px', fontWeight: 600, padding: '3px 8px', borderRadius: '6px', letterSpacing: '0.06em', opacity: 0, transition: 'opacity 0.2s' }}>EMOTION MAP →</div>
               </div>
               <p style={{ fontSize: '11px', color: '#999', fontStyle: 'italic', marginTop: '10px', lineHeight: 1.75 }}>Taken at Yusha Bay Park<br />in Quanzhou by Xiangrui Zhou</p>
@@ -1596,7 +1596,7 @@ export default function ArielProjectPage() {
               onMouseEnter={e => { (e.currentTarget as HTMLElement).style.transform = 'rotate(1.5deg) scale(1.05) translateY(-8px)'; (e.currentTarget as HTMLElement).style.zIndex = '99'; (e.currentTarget as HTMLElement).style.boxShadow = '0 20px 48px rgba(0,0,0,0.18)'; const lbl = e.currentTarget.querySelector('.photo-label') as HTMLElement; if(lbl) lbl.style.opacity = '1' }}
               onMouseLeave={e => { (e.currentTarget as HTMLElement).style.transform = 'rotate(1.5deg)'; (e.currentTarget as HTMLElement).style.zIndex = '4'; (e.currentTarget as HTMLElement).style.boxShadow = '0 4px 24px rgba(0,0,0,0.15)'; const lbl = e.currentTarget.querySelector('.photo-label') as HTMLElement; if(lbl) lbl.style.opacity = '0' }}>
               <div style={{ position: 'relative' }}>
-                <img loading="lazy" decoding="async" src="/ariel/rubbish.png" alt="Trash collected" style={{ width: '100%', height: '175px', objectFit: 'cover', display: 'block' }} />
+                <Image src="/ariel/rubbish.png" alt="Trash collected" width={1504} height={864} sizes="255px" style={{ width: '100%', height: '175px', objectFit: 'cover', display: 'block' }} />
                 <div className="photo-label" style={{ position: 'absolute', top: '8px', left: '8px', background: '#E8897A', color: 'white', fontSize: '10px', fontWeight: 600, padding: '3px 8px', borderRadius: '6px', letterSpacing: '0.06em', opacity: 0, transition: 'opacity 0.2s' }}>RESULTS →</div>
               </div>
               <p style={{ fontSize: '11px', color: '#999', fontStyle: 'italic', marginTop: '10px', lineHeight: 1.75 }}>Taken at Yusha Bay Park<br />in Quanzhou by Xiangrui Zhou</p>
@@ -1615,7 +1615,7 @@ export default function ArielProjectPage() {
                 </svg>
               </div>
               <div style={{ position: 'relative' }}>
-                <img loading="lazy" decoding="async" src="/ariel/person.png" alt="Researcher at beach" style={{ width: '100%', height: '195px', objectFit: 'cover', objectPosition: 'right top', display: 'block' }} />
+                <Image src="/ariel/person.png" alt="Researcher at beach" width={1160} height={1464} sizes="200px" style={{ width: '100%', height: '195px', objectFit: 'cover', objectPosition: 'right top', display: 'block' }} />
                 <div className="photo-label" style={{ position: 'absolute', top: '8px', left: '8px', background: '#DFA6AA', color: 'white', fontSize: '10px', fontWeight: 600, padding: '3px 8px', borderRadius: '6px', letterSpacing: '0.06em', opacity: 0, transition: 'opacity 0.2s' }}>EMOTION MAP →</div>
               </div>
               <p style={{ fontSize: '11px', color: '#999', fontStyle: 'italic', marginTop: '10px', lineHeight: 1.75 }}>Taken at Yusha Bay Park<br />in Quanzhou by Wenjia Shi</p>
@@ -1627,7 +1627,7 @@ export default function ArielProjectPage() {
               onMouseEnter={e => { (e.currentTarget as HTMLElement).style.transform = 'rotate(-1.5deg) scale(1.05) translateY(-8px)'; (e.currentTarget as HTMLElement).style.zIndex = '99'; (e.currentTarget as HTMLElement).style.boxShadow = '0 20px 48px rgba(0,0,0,0.18)'; const lbl = e.currentTarget.querySelector('.photo-label') as HTMLElement; if(lbl) lbl.style.opacity = '1' }}
               onMouseLeave={e => { (e.currentTarget as HTMLElement).style.transform = 'rotate(-1.5deg)'; (e.currentTarget as HTMLElement).style.zIndex = '2'; (e.currentTarget as HTMLElement).style.boxShadow = '0 4px 20px rgba(0,0,0,0.12)'; const lbl = e.currentTarget.querySelector('.photo-label') as HTMLElement; if(lbl) lbl.style.opacity = '0' }}>
               <div style={{ position: 'relative' }}>
-                <img loading="lazy" decoding="async" src="/ariel/wind.png" alt="Windmill Island" style={{ width: '100%', height: '155px', objectFit: 'cover', display: 'block' }} />
+                <Image src="/ariel/wind.png" alt="Windmill Island" width={1544} height={1032} sizes="235px" style={{ width: '100%', height: '155px', objectFit: 'cover', display: 'block' }} />
                 <div className="photo-label" style={{ position: 'absolute', top: '8px', left: '8px', background: '#78A998', color: 'white', fontSize: '10px', fontWeight: 600, padding: '3px 8px', borderRadius: '6px', letterSpacing: '0.06em', opacity: 0, transition: 'opacity 0.2s' }}>INTERVIEW →</div>
               </div>
               <p style={{ fontSize: '11px', color: '#999', fontStyle: 'italic', marginTop: '10px', lineHeight: 1.75 }}>Taken at Windmill Island<br />in Quanzhou by Xiangrui Zhou</p>
@@ -2706,7 +2706,7 @@ export default function ArielProjectPage() {
         <div className="products-online">
           <div className="products-ui-stage">
             <img loading="lazy" decoding="async" className="products-ui-ghost" src="/ariel/app.png" alt="" />
-            <img loading="lazy" decoding="async" className="products-ui-main" src="/ariel/new-assets/UI - overall.png" alt="Ariel digital platform overview" />
+            <Image className="products-ui-main" src="/ariel/new-assets/UI - overall.png" alt="Ariel digital platform overview" width={2788} height={1856} sizes="(max-width: 900px) 92vw, 46vw" />
           </div>
           <div className="products-online-copy">
             <span>Online · Digital Platform</span>
@@ -2749,7 +2749,7 @@ export default function ArielProjectPage() {
             <p>The full container combines guidance, equipment access, waste submission and product exchange in one visible coastal touchpoint.</p>
           </div>
           <div className="products-offline-stage">
-            <img loading="lazy" decoding="async" className="products-offline-main" src="/ariel/station.png" alt="Full Ariel service container" />
+            <Image className="products-offline-main" src="/ariel/station.png" alt="Full Ariel service container" width={3936} height={3212} sizes="(max-width: 900px) 92vw, 48vw" />
             <img loading="lazy" decoding="async" className="products-offline-detail products-offline-sandals" src="/ariel/new-assets/拖鞋礼盒.png" alt="Ariel sandals and packaging" />
             <img loading="lazy" decoding="async" className="products-offline-detail products-offline-screen" src="/ariel/new-assets/offline-screen.png" alt="Ariel station screen" />
             <img loading="lazy" decoding="async" className="products-offline-detail products-offline-poster" src="/ariel/new-assets/offline poster.png" alt="Ariel offline poster" />
@@ -2782,7 +2782,7 @@ export default function ArielProjectPage() {
                 {/* 左侧 */}
                 <div style={{ display: 'flex', flexDirection: 'column', minHeight: 0, borderRight: '1px solid #e0e0e0', paddingRight: '28px', paddingBottom: '4px' }}>
                   <div style={{ position: 'relative', flex: 1, minHeight: 220, marginBottom: '16px' }}>
-                    <img loading="lazy" decoding="async" className="cobranding-products" src="/ariel/new-assets/cobranding-products.png" alt="Co-branding product possibilities" style={{ position: 'absolute', inset: '4%', width: '92%', height: '88%', objectFit: 'contain' }} />
+                    <Image className="cobranding-products" src="/ariel/new-assets/cobranding-products.png" alt="Co-branding product possibilities" width={1476} height={976} sizes="46vw" style={{ position: 'absolute', inset: '4%', width: '92%', height: '88%', objectFit: 'contain' }} />
                     {[
                       { label: 'swim ring', left: '4%', top: '6%' },
                       { label: 'sunglass', right: '6%', top: '4%', flip: true },
@@ -2932,7 +2932,7 @@ export default function ArielProjectPage() {
                   </p>
                 </div>
                 <div className="physical-site-media" style={{ display: 'flex', flexDirection: 'column', gap: '4px', minHeight: 0, height: '100%' }}>
-                  <img loading="lazy" decoding="async" src="/ariel/new-assets/physical site.png" alt="Ariel physical site concept" style={{ flex: 1, minHeight: 0, width: '100%', objectFit: 'contain', borderRadius: '16px', display: 'block' }} />
+                  <Image src="/ariel/new-assets/physical site.png" alt="Ariel physical site concept" width={1760} height={920} sizes="(max-width: 900px) 92vw, 52vw" style={{ flex: 1, minHeight: 0, width: '100%', height: 'auto', objectFit: 'contain', borderRadius: '16px', display: 'block' }} />
                   <p style={{ fontSize: '11px', color: '#aaa', margin: 0, textAlign: 'left' }}>Ariel physical site concept</p>
                 </div>
               </div>

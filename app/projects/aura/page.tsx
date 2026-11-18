@@ -86,7 +86,7 @@ export default function AuraProjectPage() {
             preload="metadata"
             poster="/project-thumbs/aura.jpg"
             className="absolute inset-0 w-full h-full object-cover"
-            src="/aura/2.mp4"
+            src="/optimized/aura-hero-1080.m4v"
           />
           <div className="absolute inset-0 bg-[rgba(0,0,0,0.15)]" />
 
